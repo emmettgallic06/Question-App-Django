@@ -1,2 +1,2 @@
-db.sqlite3
-.idea
+mysite/db.sqlite3
+.idea/workspace.xml
